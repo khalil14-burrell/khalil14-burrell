@@ -6,8 +6,8 @@
 
 💡 Tech Skills:
 
-Data Collection: Web scraping, API integration
-Data Analysis & Modeling: Python (Pandas, NumPy, SciPy), Jupyter Notebook
-Data Visualization: Power BI, Matplotlib, Seaborn
-Machine Learning: Gradient descent, regression analysis
+- Data Collection: Web scraping, API integration
+- Data Analysis & Modeling: Python (Pandas, NumPy, SciPy), Jupyter Notebook
+- Data Visualization: Power BI, Matplotlib, Seaborn
+- Machine Learning: Gradient descent, regression analysis
 📈 My GitHub is a place for my projects and experiments in data science. I'm constantly learning and exploring new methods to refine my skills. Let’s connect if you share an interest in public policy, data science, or if you have interesting data projects to collaborate on!
